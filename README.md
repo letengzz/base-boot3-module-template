@@ -1,0 +1,1 @@
+# base-boot3-module-template
